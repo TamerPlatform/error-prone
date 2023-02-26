@@ -86,7 +86,7 @@
       <!-- GPLv2 with Classpath Exception -->
       <groupId>org.checkerframework</groupId>
       <artifactId>dataflow</artifactId>
-      <version>1.8.10</version>
+      <version>1.9.13</version>
     </dependency>
     <dependency>
       <!-- GPLv2 with Classpath Exception -->
